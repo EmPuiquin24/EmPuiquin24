@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Hector Emilio. 
-I'm a 18 years old Computer Science student at University of Engineering and Technology (UTEC).
-I'm currently learning C++ 
+- Hello! My name is Hector Emilio. 
+- I'm a 18 years old Computer Science student at University of Engineering and Technology (UTEC).
+- I'm currently learning C++ 
 
