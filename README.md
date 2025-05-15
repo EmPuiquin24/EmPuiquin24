@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - Hello! My name is Hector Emilio. 
 - I'm a 18 years old Computer Science student at University of Engineering and Technology (UTEC).
-- I'm currently learning **C++** and developmente with **Spring Boot**
+- I'm currently learning **C++** and app development with **Spring Boot**
 - I can speak Spanish, English and a bit of German.
 
